@@ -8,6 +8,8 @@ int countDigit(int n,int digit)
     int count = 0;
     int retval = 0;
     int rem = 0;
+    Console.WriteLine("hhhh");
+    Console.WriteLine("hgh");
 
     if(n<=0 || digit < 0)
     {
